@@ -25,5 +25,11 @@
 	<a href="https://www.linkedin.com/in/jeremy-gomes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/98rpJbxQUF68V8Veq77/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
   	<a href="https://www.paypal.com/paypalme/gomesjeremy"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Facebook"/></a>
-
 </p>
+
+<h3 align="center">
+  <img src="https://i.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/YWB6Hi29vA3jG.gif';" width="190px">
+  <br>  
+  <br>  
+📖 Bonne Lecture !
+</h3>

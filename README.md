@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est Jérémy GOMES</h1>
+<h1 align="center">Salut👋 ! Moi c'est Jérémy GOMES.</h1>
 <h3 align="center">
   [Cybersécurité] Analyste / Consultant / Trolleur
   <br>  
